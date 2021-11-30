@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\Calculator_I.exe
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\Calculator_I.deps.json
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\Calculator_I.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\Calculator_I.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\Calculator_I.dll
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\ref\Calculator_I.dll
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\bin\Debug\net5.0\Calculator_I.pdb
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.dll
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\ref\Calculator_I.dll
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.pdb
+C:\Users\Lenovo\Desktop\AtoS\C#\HW1\Calculator_I\Calculator_I\Calculator_I\obj\Debug\net5.0\Calculator_I.genruntimeconfig.cache
